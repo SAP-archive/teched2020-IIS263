@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# IIS263 - SAP Analytics Cloud with Focused Insights for SAP Solution Manager
 
 ## Description
 
