@@ -2,7 +2,7 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called IIS263 SAP Analytics Cloud with Focused Insights for SAP Solution Manager
+This repository contains the material for the SAP TechEd 2020 session called **IIS263 SAP Analytics Cloud with Focused Insights for SAP Solution Manager**
 
 ## Overview
 
@@ -20,37 +20,33 @@ SAP Analytics Cloud exercices, connect to the following SAC tenant: https://fi-a
 
 ## Exercises
 
-Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
+Two exercises are available
 
-- SAP Solution Manager
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
+* Focused Insights for SAP Solution Manager.
+* SAP Analytics Cloud.
+
+If you are familiar with Focused Insights for SAP Solution Manager, you  can directly start with SAP Analytics Cloud exercises.
     
+    
+* Focused Insights for SAP Solution Manager
+  * Ex 1: Create your first chart	
+    * 1.1	Connect to the SAC Tenant	
+    * 1.2	Create your story	
+    * 1.3	Bar chart	
 
-- SAP Analytics Cloud
-
-Ex 1: Create your first chart	3
-  1.1	Connect to the SAC Tenant	3
-  1.2	Create your story	3
-  1.3	Bar chart	4
-Ex 2: Add a Trend Chart	8
-  2.1	time series chart	8
-Ex 3: Add a Distribution Chart	10
-  3.1	heatmap chart	10
-Ex 4: Add a Geo Map	12
-  4.1	Geo map with Bubble Chart	12
+* SAP Analytics Cloud
+  * Ex 1: Create your first chart	
+    * 1.1	Connect to the SAC Tenant	
+    * 1.2	Create your story	
+    * 1.3	Bar chart	
+  * Ex 2: Add a Trend Chart	
+    * 2.1	time series chart	
+  * Ex 3: Add a Distribution Chart
+    * 3.1	heatmap chart	
+  * Ex 4: Add a Geo Map	
+    * 4.1	Geo map with Bubble Chart
  
 
-- [Exercise 1 - First Exercise Description](exercises/ex1/)
-    - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
-    - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
-- [Exercise 2 - Second Exercise Description](exercises/ex2/)
-    - [Exercise 2.1 - Exercise 2 Sub Exercise 1 Description](exercises/ex2#exercise-21-sub-exercise-1-description)
-    - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
 
 
 **OR** Link to the PDF document stored in your github repo for example...
