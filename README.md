@@ -2,15 +2,21 @@
 
 ## Description
 
-This repository contains the material for the SAP TechEd 2020 session called Session ID - Session Title. 
+This repository contains the material for the SAP TechEd 2020 session called IIS263 SAP Analytics Cloud with Focused Insights for SAP Solution Manager
 
 ## Overview
 
-This session introduces attendees to...
+Discover how to create a new generation of analytics reports required by application management for an intelligent enterprise. 
+
+Explore your IT data and discover valuable insights for your business solutions by combining information coming from all your platforms for application lifecycle management (ALM). 
+With the SAP Analytics Cloud solution and the Focused Insights solution for SAP Solution Manager, you can understand how to aggregate all your ALM data into powerful reports and dashboards.
 
 ## Requirements
 
-The requirements to follow the exercises in this repository are...
+You need to access to the SAP Solution Manager Demo System: www.sapsolutionmanagerdemo.com
+
+SAP Analytics Cloud exercices, connect to the following SAC tenant
+
 
 ## Exercises
 
