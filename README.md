@@ -22,7 +22,7 @@ SAP Analytics Cloud exercices, connect to the following SAC tenant: https://fi-a
 
 Provide the exercise content here directly in README.md using [markdown](https://guides.github.com/features/mastering-markdown/) and linking to the specific exercise pages, below is an example.
 
-- [SAP Solution Manager]
+- SAP Solution Manager
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
@@ -31,7 +31,20 @@ Provide the exercise content here directly in README.md using [markdown](https:/
     - [Exercise 2.2 - Exercise 2 Sub Exercise 2 Description](exercises/ex2#exercise-22-sub-exercise-2-description)
     
 
-- [Getting Started](exercises/ex0/)
+- SAP Analytics Cloud
+
+Ex 1: Create your first chart	3
+  1.1	Connect to the SAC Tenant	3
+  1.2	Create your story	3
+  1.3	Bar chart	4
+Ex 2: Add a Trend Chart	8
+  2.1	time series chart	8
+Ex 3: Add a Distribution Chart	10
+  3.1	heatmap chart	10
+Ex 4: Add a Geo Map	12
+  4.1	Geo map with Bubble Chart	12
+ 
+
 - [Exercise 1 - First Exercise Description](exercises/ex1/)
     - [Exercise 1.1 - Exercise 1 Sub Exercise 1 Description](exercises/ex1#exercise-11-sub-exercise-1-description)
     - [Exercise 1.2 - Exercise 1 Sub Exercise 2 Description](exercises/ex1#exercise-12-sub-exercise-2-description)
