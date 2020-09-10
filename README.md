@@ -28,13 +28,16 @@ Two exercises are available
 If you are familiar with Focused Insights for SAP Solution Manager, you  can directly start with SAP Analytics Cloud exercises.
     
     
-* Focused Insights for SAP Solution Manager
-  * Ex 1: Create your first chart	
-    * 1.1	Connect to the SAC Tenant	
-    * 1.2	Create your story	
-    * 1.3	Bar chart	
+**Focused Insights for SAP Solution Manager**
+  * Ex 1: Create your first dashboard	
+    * 1.1	Line chart	
+    * 1.2	Column Chart	
 
-* SAP Analytics Cloud
+
+Start the exercises [here](exercises/IIS263_Exo1.pdf).
+
+
+**SAP Analytics Cloud**
   * Ex 1: Create your first chart	
     * 1.1	Connect to the SAC Tenant	
     * 1.2	Create your story	
@@ -47,23 +50,16 @@ If you are familiar with Focused Insights for SAP Solution Manager, you  can dir
     * 4.1	Geo map with Bubble Chart
  
 
+Start the exercises [here](exercises/IIS263Exo2.pdf).
 
 
-**OR** Link to the PDF document stored in your github repo for example...
 
-Start the exercises [here](exercises/myPDFDoc.pdf).
-    
-**OR** Link to the Tutorial Navigator for example...
 
-Start the exercises [here](https://developers.sap.com/tutorials/abap-environment-trial-onboarding.html).
-
-**IMPORTANT**
-
-Your repo must contain the LICENSE and NOTICE files as well as the sections below.  DO NOT REMOVE these sections or files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
 
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
+
 
 ## License
 Copyright (c) 2020 SAP SE or an SAP affiliate company. All rights reserved. This file is licensed under the Apache Software License, version 2.0 except as noted otherwise in the [LICENSE](LICENSE) file.
