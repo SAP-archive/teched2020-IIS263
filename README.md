@@ -13,9 +13,12 @@ With the SAP Analytics Cloud solution and the Focused Insights solution for SAP 
 
 ## Requirements
 
-You need to access to the SAP Solution Manager Demo System: www.sapsolutionmanagerdemo.com
+You need to access to the SAP Solution Manager Demo System: 
+https://teched-a4h.ddnss.org:44310/sap/bc/ui2/flp?sap-client=001&sap-language=EN%23Shell-home
 
-SAP Analytics Cloud exercices, connect to the following SAC tenant: https://fi-analytics-test.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#;view_id=home
+
+SAP Analytics Cloud exercices, connect to the following SAC tenant: 
+https://fi-analytics-test.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#;view_id=home
 
 
 ## Exercises
