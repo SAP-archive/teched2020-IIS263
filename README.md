@@ -33,11 +33,15 @@ If you are familiar with Focused Insights for SAP Solution Manager, you  can dir
     
 **Focused Insights for SAP Solution Manager**
   * Ex 1: Create your first dashboard	
-    * 1.1	Line chart	
-    * 1.2	Column Chart	
+  * Ex 2: Add content
+    * 2.1	Table chart	
+    * 2.2	Line Chart	
+    * 2.3   Trend Table Chart
+  * Ex 3: Customise content
+    * 3.1    Jump-in
 
 
-Start the exercises [here](exercises/IIS263_Exo1.pdf).
+Start the exercises [here](exercises/IIS263_exercise_1.pdf).
 
 
 **SAP Analytics Cloud**
