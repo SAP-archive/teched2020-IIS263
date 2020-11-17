@@ -53,7 +53,7 @@ Start the exercises [here](exercises/IIS263_Exo1.pdf).
     * 4.1	Geo map with Bubble Chart
  
 
-Start the exercises [here](exercises/IIS263Exo2.pdf).
+Start the exercises [here](exercises/IIS263_exercise_2.pdf).
 
 
 
