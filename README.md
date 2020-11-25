@@ -41,7 +41,7 @@ If you are familiar with Focused Insights for SAP Solution Manager, you  can dir
     * 3.1    Jump-in
 
 
-Start the exercises [here](exercises/IIS263_exercise_1.pdf).
+Start the exercises [here](exercises/IIS263_Exercise_1.pdf).
 
 
 **SAP Analytics Cloud**
