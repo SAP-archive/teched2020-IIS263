@@ -23,10 +23,12 @@ https://fi-analytics-test.eu10.sapanalytics.cloud/sap/fpa/ui/app.html#;view_id=h
 
 ## Exercises
 
-Two exercises are available
+3 exercises are available:
 
-* Focused Insights for SAP Solution Manager.
-* SAP Analytics Cloud.
+* Focused Insights for SAP Solution Manager (step by step instructions)
+* SAP Analytics Cloud (step by step instructions)
+* Optional:  Focused Insights for SAP Solution Manager (no instructions)
+
 
 If you are familiar with Focused Insights for SAP Solution Manager, you  can directly start with SAP Analytics Cloud exercises.
     
