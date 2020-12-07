@@ -60,7 +60,13 @@ Start the exercises [here](exercises/IIS263_exercise_1.pdf).
 Start the exercises [here](exercises/IIS263_exercise_2.pdf).
 
 
+**Focused Insights for SAP Solution Manager**
+  * Ex 1: Gadget 1: Column Char for Number of Alerts	
+  * Ex 2: Gadget 2: Line Chart for Dialog Response Time
+  * Ex 3: Gadget 3: Line Chart for Gateway Response Time
+ 
 
+Start the exercises [here](exercises/IIS263_exercise_3.pdf).
 
 
 ## How to obtain support
