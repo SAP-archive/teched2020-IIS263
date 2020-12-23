@@ -1,5 +1,7 @@
 # IIS263 - SAP Analytics Cloud with Focused Insights for SAP Solution Manager
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-IIS201)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-IIS263)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called **IIS263 SAP Analytics Cloud with Focused Insights for SAP Solution Manager**
